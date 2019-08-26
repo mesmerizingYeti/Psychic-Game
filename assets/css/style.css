@@ -1,7 +1,15 @@
 h1 {
     font-weight: bold;
     font-size: 2em;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
 }
 p {
-    margin: 3px;
+    margin-bottom: 10px;
+}
+span {
+    display: inline;
 }
